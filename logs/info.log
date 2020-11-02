@@ -1,0 +1,36 @@
+Info: DeliveryProcess:analise: 50 mini seconds publishing element
+Info: DeliveryProcess:analise: 50 mini seconds publishing process specific layout data
+Info: Activity:Atribuir incidente: 69 mini seconds publishing element
+Info: Task:atribuir_incidente: 9 mini seconds publishing element
+Info: TaskDescriptor:atribuir_incidente: 8 mini seconds publishing element
+Info: Role:chamado: 23 mini seconds publishing element
+Info: RoleDescriptor:chamado: 8 mini seconds publishing element
+Info: Role:cliente: 17 mini seconds publishing element
+Info: RoleDescriptor:cliente: 5 mini seconds publishing element
+Info: Role:tecnico: 30 mini seconds publishing element
+Info: RoleDescriptor:tecnico: 10 mini seconds publishing element
+Info: Role:coordenador: 20 mini seconds publishing element
+Info: RoleDescriptor:coordenador: 6 mini seconds publishing element
+Info: Artifact:analise_de_incidente: 12 mini seconds publishing element
+Info: WorkProductDescriptor:analise_de_incidente: 7 mini seconds publishing element
+Info: Artifact:status_do_incidente: 10 mini seconds publishing element
+Info: WorkProductDescriptor:status_do_incidente: 7 mini seconds publishing element
+Info: Artifact:transferir_incidente: 9 mini seconds publishing element
+Info: WorkProductDescriptor:transferir_incidente: 8 mini seconds publishing element
+Info: Task:atualizar_incidente: 6 mini seconds publishing element
+Info: TaskDescriptor:atualizar_incidente: 7 mini seconds publishing element
+Info: Task:transferir_incidente: 6 mini seconds publishing element
+Info: TaskDescriptor:transferir_incidente: 7 mini seconds publishing element
+Info: Task:resolucao_de_incidente: 6 mini seconds publishing element
+Info: TaskDescriptor:resolucao_de_incidente: 7 mini seconds publishing element
+Info: Artifact:solucao_do_incidente: 8 mini seconds publishing element
+Info: WorkProductDescriptor:solucao_do_incidente: 5 mini seconds publishing element
+Info: Checklist:campos_para_preenchimento_do_incidente: 12 mini seconds publishing element
+Info: RoleSet:equipe: 7 mini seconds publishing element
+Info: CustomCategory:Configuration free process view: 6 mini seconds publishing element
+Info: CustomCategory:Tasks: 3 mini seconds publishing element
+Info: CustomCategory:Roles: 3 mini seconds publishing element
+Info: CustomCategory:Work Products: 3 mini seconds publishing element
+Info: CustomCategory:Guidance: 2 mini seconds publishing element
+Info: CustomCategory:Processes: 3 mini seconds publishing element
+Info: : Publishing time: 0 minutes 0 seconds
